@@ -14,7 +14,7 @@ Original Repo: [necolas/normalize.css](https://github.com/necolas/normalize.css)
 ```
 https://cdn.jsdelivr.net/gh/DogukanUrker/MinifiedCSSResetCDNs@main/css/normalize.min.css
 ```
-
+---
 ### Reset CSS
 
 Size: 0.77kb <br>
@@ -27,7 +27,7 @@ Original Source: [meyerweb/reset](https://meyerweb.com/eric/tools/css/reset/) <b
 ```
 https://cdn.jsdelivr.net/gh/DogukanUrker/MinifiedCSSResetCDNs@main/css/reset.min.css
 ```
-
+---
 ### Tailwind Prefilght
 
 Size: 2.51kb <br>
@@ -40,7 +40,7 @@ Original Repo: [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwi
 ```
 https://cdn.jsdelivr.net/gh/DogukanUrker/MinifiedCSSResetCDNs@main/css/tailwind-preflight.min.css
 ```
-
+---
 ### Mini Reset
 
 Size: 0.4kb <br>
@@ -53,7 +53,7 @@ Original Repo: [jgthms/minireset.css](https://github.com/jgthms/minireset.css/) 
 ```
 https://cdn.jsdelivr.net/gh/DogukanUrker/MinifiedCSSResetCDNs@main/css/minireset.min.css
 ```
-
+---
 ### Modern Normalize
 
 Size: 1.23kb <br>
@@ -66,7 +66,7 @@ Original Repo: [sindresorhus/modern-normalize](https://github.com/sindresorhus/m
 ```
 https://cdn.jsdelivr.net/gh/DogukanUrker/MinifiedCSSResetCDNs@main/css/modern-normalize.min.css
 ```
-
+---
 ### Ress
 
 Size: 2.15kb <br>
@@ -79,7 +79,7 @@ Original Repo: [filipelinhares/ress](https://github.com/filipelinhares/ress/) <b
 ```
 https://cdn.jsdelivr.net/gh/DogukanUrker/MinifiedCSSResetCDNs@main/css/ress.min.css
 ```
-
+---
 ### Sanitize
 
 Size: 2.13kb <br>
